@@ -1,0 +1,5 @@
+setup.py
+morning_greetings.egg-info/PKG-INFO
+morning_greetings.egg-info/SOURCES.txt
+morning_greetings.egg-info/dependency_links.txt
+morning_greetings.egg-info/top_level.txt
