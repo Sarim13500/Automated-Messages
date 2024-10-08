@@ -25,8 +25,10 @@ The `morning_greetings` package automates sending personalized "Good Morning" me
    cd Automated-Messages
    
 2. Install the package:
-   "pip install -e ."
+   ```bash
+   pip install -e .
 
 **Usage
 After installation, you can run the main script to send greetings:
+```bash
 python main.py
